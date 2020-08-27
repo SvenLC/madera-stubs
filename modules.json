@@ -3,8 +3,10 @@
   "name": "Mur extérieur",
   "cuttingPlane": "http://monimagedeplan.com",
   "technicalClauses": "caractéristique de la dalle béton/a préciser",
-  "Section": [
+  "section": [
     { "id": "37yODUIS", "name": "lisse", "quantity": 35, "unit": "cm" },
     { "id": "U27HDJS", "name": "contrefort", "quantity": 34 }
-  ]
+  ],
+  "montant": [],
+  "remplissage": []
 }

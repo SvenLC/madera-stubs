@@ -1,0 +1,19 @@
+{
+  "name": "Luxe",
+  "materials": {
+    "external": "crépis",
+    "isolation": { "id": "142562", "name": "Biologique" },
+    "doorFrame": "Luxe"
+  },
+  "models": [
+    {
+      "name": "Default"
+    },
+    {
+      "name": "Bois",
+      "materials": {
+        "external": "Bois"
+      }
+    }
+  ]
+}

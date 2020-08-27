@@ -1,0 +1,8 @@
+{
+  "id": "7YIUDH",
+  "client": "le client",
+  "estimates": [
+    { "id": "fsd87YDS", "estimateStatus": "accepted", "paymentStep": "3" },
+    { "id": "fsd87YDS", "estimateStatus": "refused" }
+  ]
+}

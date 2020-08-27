@@ -1,28 +1,18 @@
 {
-  "reference": "202008F17001",
-  "name": "La maison de babar",
-  "client": {
-    "firstname": "Alexandre",
-    "lastname": "Mavrel",
-    "address": "2 avenue de provence",
-    "zipCode": "29200",
-    "city": "Brest",
-    "country": "France",
-    "mail": "alexandre@viacesi.fr",
-    "password": "******",
-    "commercial": "Kristen"
-  },
-  "commercial": "Kristen",
   "products": [
     {
-      "line": "Luxe",
-      "model": "Bois",
-      "customizations": [
-        {
-          "type": "isolation",
-          "material": "Ouate de cellulose"
+      "line": {
+        "name": "luxe",
+        "model": {
+          "name": "Bois",
+          "customizations": [
+            {
+              "type": "isolation",
+              "material": "Ouate de cellulose"
+            }
+          ]
         }
-      ],
+      },
       "modules": [
         {
           "name": "Mur ouest - 1",
